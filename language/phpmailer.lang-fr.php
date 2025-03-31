@@ -1,7 +1,7 @@
 <?php
 
 /**
- * French PHPMailer language file: refer to English translation for definitive list
+ * French PHPMailer language file: refer to English translation in (src/PHPMailer.php) for definitive list
  * @package PHPMailer
  * Some French punctuation requires a thin non-breaking space (U+202F) character before it,
  * for example before a colon or exclamation mark.
@@ -17,10 +17,10 @@ $PHPMAILER_LANG['encoding']             = 'Encodage inconnu : ';
 $PHPMAILER_LANG['execute']              = 'Impossible de lancer l’exécution : ';
 $PHPMAILER_LANG['extension_missing']    = 'Extension manquante : ';
 $PHPMAILER_LANG['file_access']          = 'Impossible d’accéder au fichier : ';
-$PHPMAILER_LANG['file_open']            = 'Ouverture du fichier impossible : ';
+$PHPMAILER_LANG['file_open']            = 'Impossible d\'ouvrir le fichier : ';
 $PHPMAILER_LANG['from_failed']          = 'L’adresse d’expéditeur suivante a échoué : ';
 $PHPMAILER_LANG['instantiate']          = 'Impossible d’instancier la fonction mail.';
-$PHPMAILER_LANG['invalid_address']      = 'Adresse courriel non valide : ';
+$PHPMAILER_LANG['invalid_address']      = 'Adresse mail non valide : ';
 $PHPMAILER_LANG['invalid_header']       = 'Nom ou valeur de l’en-tête non valide';
 $PHPMAILER_LANG['invalid_hostentry']    = 'Entrée d’hôte non valide : ';
 $PHPMAILER_LANG['invalid_host']         = 'Hôte non valide : ';
